@@ -1,0 +1,16 @@
+{
+  "short_name": "Involved Group",
+  "name": "Involved Group",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+
+  ],
+  "start_url": "/build/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
